@@ -1,0 +1,146 @@
+[
+{
+"frage": "Was ist ein HTML-Tag?",
+"antworten": [
+"Ein CSS-Befehl für Farben",
+"Ein Baustein zur Strukturierung von Webseiten",
+"Ein JavaScript-Befehl",
+"Eine Datei im Server",
+"Ein Bildformat"
+],
+"korrekteAntwort": 1,
+"erklaerung": "HTML-Tags bilden die Grundstruktur einer Webseite. Sie definieren Elemente wie Texte, Bilder oder Bereiche."
+},
+{
+"frage": "Was bedeutet Verschachtelung in HTML?",
+"antworten": [
+"CSS wird in HTML eingebettet",
+"Elemente werden alphabetisch sortiert",
+"Elemente liegen innerhalb anderer Elemente",
+"HTML wird komprimiert",
+"Nur ein Element pro Seite ist erlaubt"
+],
+"korrekteAntwort": 2,
+"erklaerung": "Verschachtelung bedeutet, dass HTML-Elemente innerhalb anderer Elemente stehen und dadurch eine hierarchische Struktur bilden."
+},
+{
+"frage": "Welche Struktur ist korrekt verschachtelt?",
+"antworten": [
+"<p><div>Text</div></p>",
+"<div><h1>Titel</h1></div>",
+"<h1><p>Titel</p></h1>",
+"<div><h1></div></h1>",
+"<p><h1>Text</p></h1>"
+],
+"korrekteAntwort": 1,
+"erklaerung": "Blockelemente wie div können andere Elemente enthalten. Tags müssen korrekt geöffnet und geschlossen werden."
+},
+{
+"frage": "Wofür wird <h1> verwendet?",
+"antworten": [
+"Für Bilder",
+"Für Hauptüberschriften",
+"Für Navigation",
+"Für Tabellen",
+"Für CSS Layouts"
+],
+"korrekteAntwort": 1,
+"erklaerung": "h1 ist die wichtigste Überschrift einer Seite und beschreibt den zentralen Inhalt."
+},
+{
+"frage": "Welche Aussage ist korrekt?",
+"antworten": [
+"Eine Seite kann mehrere h1 haben, ohne Bedeutung",
+"h1 ist kleiner als h3",
+"h1 ist die wichtigste Überschrift",
+"h1 wird nur für Buttons genutzt",
+"h1 gehört zu CSS"
+],
+"korrekteAntwort": 2,
+"erklaerung": "Die Überschrift h1 steht auf der höchsten Ebene der Hierarchie und beschreibt den Haupttitel."
+},
+{
+"frage": "Was bedeutet flex-direction: row?",
+"antworten": [
+"Elemente werden untereinander angeordnet",
+"Elemente werden unsichtbar",
+"Elemente werden horizontal nebeneinander angeordnet",
+"Flexbox wird deaktiviert",
+"Grid wird aktiviert"
+],
+"korrekteAntwort": 2,
+"erklaerung": "Row bedeutet, dass Flex-Items in einer Zeile von links nach rechts angeordnet werden."
+},
+{
+"frage": "Wie werden Elemente vertikal angeordnet?",
+"antworten": [
+"flex-direction: column",
+"display: grid-row",
+"text-align: center",
+"position: inline",
+"flex-wrap: row"
+],
+"korrekteAntwort": 0,
+"erklaerung": "Column ordnet Flex-Items untereinander an."
+},
+{
+"frage": "Was bedeutet 'Box in Box' im Webdesign?",
+"antworten": [
+"CSS wird in HTML eingebaut",
+"Elemente werden in anderen Elementen strukturiert",
+"Bilder werden komprimiert",
+"Flexbox ersetzt HTML",
+"JavaScript steuert Layout automatisch"
+],
+"korrekteAntwort": 1,
+"erklaerung": "Webseiten bestehen aus verschachtelten Bereichen, die wie ineinanderliegende Boxen funktionieren."
+},
+{
+"frage": "Was beschreibt dieses Layout?\n\nHeader Header Header\nSidebar Main Main\nFooter Footer Footer",
+"antworten": [
+"Flexbox Layout",
+"Textformatierung",
+"CSS Grid Layout mit Bereichen",
+"JavaScript Struktur",
+"Tabellenlayout in HTML"
+],
+"korrekteAntwort": 2,
+"erklaerung": "Diese Darstellung zeigt typische Grid-Bereiche, die sich über Spalten und Zeilen erstrecken."
+},
+{
+"frage": "Was ist der Zweck solcher ASCII-Layouts im Unterricht?",
+"antworten": [
+"Code schneller schreiben",
+"CSS deaktivieren",
+"Layout visuell planen und verstehen",
+"HTML ersetzen",
+"Bilder erzeugen"
+],
+"korrekteAntwort": 2,
+"erklaerung": "ASCII-Darstellungen helfen, die Struktur eines Layouts vor der technischen Umsetzung zu verstehen."
+},
+{
+"frage": "Welche Kombination beschreibt ein typisches Webseitenlayout korrekt?",
+"antworten": [
+"Flex für komplette Seite, Grid für Buttons",
+"Grid für Seitenstruktur, Flex für innere Elemente",
+"Nur Grid wird immer verwendet",
+"Nur Flexbox wird immer verwendet",
+"HTML ersetzt CSS"
+],
+"korrekteAntwort": 1,
+"erklaerung": "Grid eignet sich für 2D-Layouts, Flexbox für einzelne Komponenten innerhalb eines Bereichs."
+},
+{
+"frage": "Welche Aussage ist korrekt für Webseitenstruktur?",
+"antworten": [
+"Alles ist flach ohne Struktur",
+"Elemente werden zufällig angeordnet",
+"HTML definiert Struktur, CSS das Layout",
+"CSS ersetzt HTML",
+"JavaScript ersetzt HTML"
+],
+"korrekteAntwort": 2,
+"erklaerung": "HTML beschreibt die Struktur, CSS bestimmt das Aussehen und Layout."
+}
+] 
